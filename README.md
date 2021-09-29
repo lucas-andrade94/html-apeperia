@@ -39,7 +39,7 @@ git clone https://github.com/lucas-andrade94/html-apeperia.git
 ```
 
 ### How to run
-- Open index.html file or acess https://lucas-andrade94.github.io/html-apeperia-website/
+- Open index.html file or acess https://lucas-andrade94.github.io/html-apeperia/
 
 
 ### Screens
