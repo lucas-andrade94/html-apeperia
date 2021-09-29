@@ -1,5 +1,5 @@
 <h1 align="center">
-    <svg alt="Apeperia" title="Apeperia" src="img/logo-apeperia.svg" width="200px" />
+    <img alt="Apeperia" title="Apeperia" src="img/logo-apeperia.svg" width="200px" />
 </h1>
 
 <h4 align="center">
